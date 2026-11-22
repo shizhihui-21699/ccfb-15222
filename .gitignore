@@ -16,3 +16,11 @@ node_modules/
 __pycache__/
 .venv/
 venv/
+
+# Elixir
+_build/
+deps/
+*.ez
+aegis-*.tar
+.elixir_ls/
+erl_crash.dump
